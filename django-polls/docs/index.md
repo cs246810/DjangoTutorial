@@ -1,0 +1,3 @@
+# django-polls
+
+Hello.
